@@ -1,10 +1,10 @@
 # Radar Target Generation and Detection
 
 
-#Range FFT
-<img src="images/range_fft.png" width="779" height="414" />
+### FFT Output
+<img src="images/fft_output.png" width="779" height="414" />
 
- #plot the output of 2DFFT
+### Plot the output of 2DFFT
  <img src="images/2dplot.png" width="779" height="414" />
  
 ## Implementation Steps
